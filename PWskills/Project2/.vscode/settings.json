@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "HospitalManagement",
+        "HospitalDetails",
+        "DoctorDetails",
+        "MedicineList"
+    ]
+}
